@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Dowin/Documents/projects/mapApi/node_modules/react-native-RCTbaiduMapApi/android/src/main/res"><file name="icon_gcoding" path="/Users/Dowin/Documents/projects/mapApi/node_modules/react-native-RCTbaiduMapApi/android/src/main/res/drawable/icon_gcoding.png" qualifiers="" type="drawable"/><file name="text_bubble" path="/Users/Dowin/Documents/projects/mapApi/node_modules/react-native-RCTbaiduMapApi/android/src/main/res/layout/text_bubble.xml" qualifiers="" type="layout"/><file path="/Users/Dowin/Documents/projects/mapApi/node_modules/react-native-RCTbaiduMapApi/android/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">baidumap</string></file><file path="/Users/Dowin/Documents/projects/mapApi/node_modules/react-native-RCTbaiduMapApi/android/src/main/res/values/styles.xml" qualifiers=""><style name="ClusterIcon.TextAppearance" parent="android:TextAppearance">
+        <item name="android:textColor">#ffeeeeee</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="Bubble.TextAppearance.Dark" parent="android:TextAppearance.Medium">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#ff7f7f7f</item>
+    </style><style name="Bubble.TextAppearance.Light" parent="Bubble.TextAppearance.Dark">
+        <item name="android:textColor">#ffeeeeee</item>
+    </style></file></source><source path="/Users/Dowin/Documents/projects/mapApi/node_modules/react-native-RCTbaiduMapApi/android/build/generated/res/rs/release"/><source path="/Users/Dowin/Documents/projects/mapApi/node_modules/react-native-RCTbaiduMapApi/android/build/generated/res/resValues/release"/></dataSet><dataSet config="release"><source path="/Users/Dowin/Documents/projects/mapApi/node_modules/react-native-RCTbaiduMapApi/android/src/release/res"/></dataSet><mergedItems/></merger>
